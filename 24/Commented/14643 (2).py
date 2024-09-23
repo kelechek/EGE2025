@@ -1,5 +1,5 @@
 # Открываем файл и считываем строку
-with open('24_14643.txt') as file:
+with open('../Files/24_14643.txt') as file:
     data = file.readline()
 
 # Заменяем все вхождения подстроки 'AXMM' на 'AXM XMM', чтобы разбить строку на части,

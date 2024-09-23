@@ -1,4 +1,4 @@
-with open('24_9075.txt') as file:
+with open('../Files/24_9075.txt') as file:
     data = file.readline()
 
 ch = '02468'

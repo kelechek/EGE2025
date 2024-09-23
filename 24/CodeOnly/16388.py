@@ -1,4 +1,4 @@
-with open('24_16388.txt') as file:
+with open('../Files/24_16388.txt') as file:
     data = file.readline()
 
 data = data.replace('KLMN', '****')

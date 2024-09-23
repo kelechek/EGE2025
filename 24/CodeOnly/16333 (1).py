@@ -1,4 +1,4 @@
-with open('24_16333.txt') as file:
+with open('../Files/24_16333.txt') as file:
     data = file.readline()
 
 count = 1

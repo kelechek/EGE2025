@@ -1,4 +1,4 @@
-with open('24_9850.txt') as file:
+with open('../Files/24_9850.txt') as file:
     data = file.readline()
 
 for i in 'LISENOK':

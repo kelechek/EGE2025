@@ -1,4 +1,4 @@
-with open('24_11813.txt') as file:
+with open('../Files/24_11813.txt') as file:
     data = file.readline()
 
 gl = 'eyuioa'.upper()

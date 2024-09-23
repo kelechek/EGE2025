@@ -1,4 +1,4 @@
-with open('24_16333.txt') as file:
+with open('../Files/24_16333.txt') as file:
     data = file.readline()
 
 data = data.replace('2', '1').replace('4', '1')

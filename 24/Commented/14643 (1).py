@@ -1,5 +1,5 @@
 # Открываем текстовый файл и считываем первую строку
-with open('24_14643.txt') as file:
+with open('../Files/24_14643.txt') as file:
     data = file.readline()
 
 # Инициализация переменных

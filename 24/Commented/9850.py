@@ -1,5 +1,5 @@
 # Открываем текстовый файл для чтения
-with open('24_9850.txt') as file:
+with open('../Files/24_9850.txt') as file:
     data = file.readline()  # Считываем первую строку файла
 
 # Заменяем буквы L, I, S, E, N, O, K на пробелы
