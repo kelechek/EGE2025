@@ -7,7 +7,7 @@ data = data.replace('*KL', '*** ')
 data = data.replace('*K', '** ')
 data = data.replace('LMN*', ' ****')
 data = data.replace('MN*', ' ***')
-data = data.replace('N&', ' **')
+data = data.replace('N*', ' **')
 for i in 'KLMN':
     data = data.replace(i, ' ')
 
